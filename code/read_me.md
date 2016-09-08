@@ -20,11 +20,11 @@ WPR_predicting_aggregated.py
 (Get the accuracy and MAE of NB, SVM, DT and LR)
 
 # Demo
-AFY.xml (grabbed from wordpress by Xuanyou)  
-wp.py (convert AFY.xml to data.json, (filtered by creator david))
-schedule.sh (execute wp.py)  
-data.json (input data for demo)
-DIW_demo.py (demo using DIW method)
-PPSAP_demo.py (demo using PPSAP method)
-output_DIW  
+AFY.xml (grabbed from wordpress by Xuanyou)    
+wp.py (convert AFY.xml to data.json, (filtered by creator david))  
+schedule.sh (execute wp.py)    
+data.json (input data for demo)  
+DIW_demo.py (demo using DIW method)  
+PPSAP_demo.py (demo using PPSAP method)   
+output_DIW   
 output_PPSAP  
