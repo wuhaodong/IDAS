@@ -1,0 +1,9 @@
+[
+{"creator": "david", "url": "http://140.113.216.100:5678/wordpress/wp-content/uploads/2016/08/Animal_Dog.jpg", "media": "picture", "dd": 60.0, "ir": 200.0, "cg": "animal", "tp": 0.0, "cs": "black"},
+{"creator": "david", "url": "http://140.113.216.100:5678/wordpress/wp-content/uploads/2016/08/Living_Food.jpg", "media": "picture", "dd": 60.0, "ir": 200.0, "cg": "living", "tp": 0.0, "cs": "colorized"},
+{"creator": "david", "url": "http://140.113.216.100:5678/wordpress/wp-content/uploads/2016/08/Ad_PublicService_SharkFin.jpg", "media": "picture", "dd": 60.0, "ir": 200.0, "cg": "public", "tp": 0.2, "cs": "white"},
+{"creator": "david", "url": "http://140.113.216.100:5678/wordpress/wp-content/uploads/2016/08/Painting_BJS.jpg", "media": "picture", "dd": 60.0, "ir": 200.0, "cg": "painting", "tp": 0.0, "cs": "colorized"},
+{"creator": "david", "url": "http://140.113.216.100:5678/wordpress/wp-content/uploads/2016/08/1231.jpg", "media": "picture", "dd": 60.0, "ir": 100.0, "cg": "announcement", "tp": 0.6, "cs": "blue"},
+{"creator": "david", "url": "http://140.113.216.100:5678/wordpress/wp-content/uploads/2016/08/20151114_20160130_100_.jpg", "media": "picture", "dd": 60.0, "ir": 100.0, "cg": "announcement", "tp": 0.5, "cs": "yellow"},
+{"creator": "david", "url": "http://140.113.216.100:5678/wordpress/wp-content/uploads/2016/08/prize_20160314.jpg", "media": "picture", "dd": 60.0, "ir": 100.0, "cg": "announcement", "tp": 0.3, "cs": "red"}
+]
