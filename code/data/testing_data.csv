@@ -1,0 +1,11 @@
+id,ad_id,ppl_c,category,media,color,text_p,layout,originality
+0,3,4,painting,picture,blue,0.76,symmetry,N
+1,10,2,entertainment,picture,blue,0.7,full-page,N
+2,17,1,sport,video,blue,0.42,division,N
+3,3,1,painting,picture,blue,0.76,symmetry,N
+4,15,5,sport,picture,blue,0.38,division,N
+5,13,5,sport,video,red,0.7,symmetry,N
+6,13,1,sport,video,red,0.7,symmetry,N
+7,14,0,living,picture,green,0.6,full-page,N
+8,18,5,painting,picture,red,0.3,symmetry,N
+9,18,2,painting,picture,red,0.3,symmetry,N
